@@ -15,7 +15,7 @@ class ViewContactTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         if let selectedContact = contact {
 //            labelFirstName?.text = selectedContact.firstName
 //            
